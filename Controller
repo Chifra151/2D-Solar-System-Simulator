@@ -1,0 +1,9 @@
+from tkinter import *
+import math
+import time
+
+
+root = Tk()
+root.title ("Solar System Simulator")
+root.state('zoomed')
+root.configure(background = 'black')
